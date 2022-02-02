@@ -1,0 +1,15 @@
+/Users/daniil/VS Code/Lesson3/bin/Debug/net6.0/Lesson3
+/Users/daniil/VS Code/Lesson3/bin/Debug/net6.0/Lesson3.deps.json
+/Users/daniil/VS Code/Lesson3/bin/Debug/net6.0/Lesson3.runtimeconfig.json
+/Users/daniil/VS Code/Lesson3/bin/Debug/net6.0/Lesson3.dll
+/Users/daniil/VS Code/Lesson3/bin/Debug/net6.0/ref/Lesson3.dll
+/Users/daniil/VS Code/Lesson3/bin/Debug/net6.0/Lesson3.pdb
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/Lesson3.csproj.AssemblyReference.cache
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/Lesson3.AssemblyInfoInputs.cache
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/Lesson3.AssemblyInfo.cs
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/Lesson3.csproj.CoreCompileInputs.cache
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/Lesson3.dll
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/ref/Lesson3.dll
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/Lesson3.pdb
+/Users/daniil/VS Code/Lesson3/obj/Debug/net6.0/Lesson3.genruntimeconfig.cache
