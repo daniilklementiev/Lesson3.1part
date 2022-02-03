@@ -44,7 +44,7 @@ namespace Lesson3 {
             Console.WriteLine("Приветствие!");
             Console.WriteLine();
             Console.Write("Введите пароль:");
-            String str = ReadPassword());
+            String str = ReadPassword();
             Console.Write($"\nВы введи: {str}");
             //int x;
             //try {
